@@ -18,19 +18,13 @@ html {
   box-sizing: inherit;
 }
 
-.cards {
-
-}
-.card {
-
-}
 .card-img {
   display: block;
   margin: auto;
   width: 50px;
-
 }
-.card-body h2{
+
+.card-body h2 {
   margin-bottom: 0;
 }
 
@@ -40,23 +34,21 @@ html {
 
 @media only screen and (min-width: 25em) {
 
-  html {
-  }
-
   .cards {
     margin: 0;
   }
+
   .card {
     display: inline-block;
     margin: 0;
-
   }
+
   .card-img {
     display: inline-block;
     margin-right: .75em;
     float: left;
-
   }
+
   .card-body {
     display: inline-block;
     width: 80%;
@@ -81,6 +73,7 @@ html {
   .cards {
     display: block;
   }
+
   .card {
     display: inline-block;
     width: 182px;
@@ -92,8 +85,8 @@ html {
     display: block;
     margin: auto;
     margin-bottom: 1.25em;
-
   }
+
   .card-body {
     width: 100%;
   }
@@ -106,21 +99,12 @@ html {
     line-height: 1.5;
   }
 
-  .cards {
-
-  }
-
   .card:first-of-type {
     margin-left: .75em;
   }
+
   .card {
     width: 31%;
-  }
-  .card-img {
-
-  }
-  .card-body {
-
   }
 }
 
@@ -132,17 +116,17 @@ html {
 
   .cards {
     display: block;
-
   }
+
   .card {
     margin-right: 0;
-
   }
+
   .card-img {
     display: inline-block;
     margin-right: .75em;
-
   }
+
   .card-body {
     display: inline-block;
     width: 82%;

@@ -20,13 +20,14 @@ html {
 
 .cards {
   margin: 0;
+  list-style-type: none;
 }
 
 .card {
   margin: 0;
 }
 
-.card-img {
+.card-img img {
   display: block;
   margin: auto;
   width: 50px;

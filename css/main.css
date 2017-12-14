@@ -18,6 +18,14 @@ html {
   box-sizing: inherit;
 }
 
+.cards {
+  margin: 0;
+}
+
+.card {
+  margin: 0;
+}
+
 .card-img {
   display: block;
   margin: auto;
